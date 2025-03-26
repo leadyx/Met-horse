@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Swipe pour acheter des chevaux</title>
+</head>
+
+<body>
+
+<div id="app">
+    <h1>Swipe pour trouver ton cheval idéal 🐴</h1>
+    <div id="card-container"></div>
+    <button id="show-favorites">Voir mes favoris ❤️</button>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
